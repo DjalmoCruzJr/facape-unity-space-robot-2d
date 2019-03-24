@@ -1,44 +1,32 @@
 Initialize engine version: 4.3.2f1 (0517a5ae8669)
 GfxDevice: creating device client; threaded=1
 Direct3D:
-    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1299]
-    Renderer: AMD Radeon HD 6290 Graphics
-    Vendor:   ATI
-    VRAM:     695 MB (via DXGI)
-    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+    Version:  Direct3D 9.0c [igdumdim32.dll 10.18.15.4240]
+    Renderer: Intel(R) HD Graphics Family
+    Vendor:   Intel
+    VRAM:     1111 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\Projetos\Unity\SpaceRobot2D\SpaceRobot2D_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\Projetos\Unity\SpaceRobot2D\SpaceRobot2D_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\Projetos\Unity\SpaceRobot2D\SpaceRobot2D_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\Projetos\Unity\SpaceRobot2D\SpaceRobot2D_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-- Completed reload, in  0.449 seconds
+Platform assembly: D:\Projetos\facape\computacao-grafica\Space Robot 2D\SpaceRobot2D_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projetos\facape\computacao-grafica\Space Robot 2D\SpaceRobot2D_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projetos\facape\computacao-grafica\Space Robot 2D\SpaceRobot2D_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projetos\facape\computacao-grafica\Space Robot 2D\SpaceRobot2D_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.258 seconds
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found.
 <RI> Input initialized.
-UnloadTime: 1.278077 ms
+UnloadTime: 2.308128 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 943.
-Total: 91.827583 ms (FindLiveObjects: 0.163224 ms CreateObjectMapping: 0.047222 ms MarkObjects: 0.466062 ms  DeleteObjects: 0.229951 ms)
+Total: 2.230849 ms (FindLiveObjects: 0.102637 ms CreateObjectMapping: 0.035621 ms MarkObjects: 0.324816 ms  DeleteObjects: 0.170256 ms)
 
-UnloadTime: 3.732603 ms
+UnloadTime: 1.936823 ms
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 118.
-Total: 9.748295 ms (FindLiveObjects: 0.171436 ms CreateObjectMapping: 0.049275 ms MarkObjects: 0.315156 ms  DeleteObjects: 3.683328 ms)
-
-UnloadTime: 1.144624 ms
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 944.
-Total: 3.937917 ms (FindLiveObjects: 0.176569 ms CreateObjectMapping: 0.057487 ms MarkObjects: 0.480434 ms  DeleteObjects: 0.247403 ms)
-
-UnloadTime: 3.221372 ms
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 216.
-Total: 5.521912 ms (FindLiveObjects: 0.070833 ms CreateObjectMapping: 0.058514 ms MarkObjects: 0.364431 ms  DeleteObjects: 2.169139 ms)
+Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 5.715079 ms (FindLiveObjects: 0.040451 ms CreateObjectMapping: 0.041054 ms MarkObjects: 0.490243 ms  DeleteObjects: 2.098024 ms)
 
 Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
 To add a level to the build settings use the menu File->Build Settings...
@@ -50,119 +38,41 @@ To add a level to the build settings use the menu File->Build Settings...
  
 (Filename:  Line: 292)
 
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
+Level 'Level3' (-1) couldn't be loaded because it has not been added to the build settings.
 To add a level to the build settings use the menu File->Build Settings...
  
 (Filename:  Line: 292)
 
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
+Level 'Level3' (-1) couldn't be loaded because it has not been added to the build settings.
 To add a level to the build settings use the menu File->Build Settings...
  
 (Filename:  Line: 292)
 
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
+Level 'Level3' (-1) couldn't be loaded because it has not been added to the build settings.
 To add a level to the build settings use the menu File->Build Settings...
  
 (Filename:  Line: 292)
 
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
+Level 'Level3' (-1) couldn't be loaded because it has not been added to the build settings.
 To add a level to the build settings use the menu File->Build Settings...
  
 (Filename:  Line: 292)
 
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
-To add a level to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 292)
-
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
-To add a level to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 292)
-
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
-To add a level to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 292)
-
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
-To add a level to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 292)
-
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
-To add a level to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 292)
-
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
-To add a level to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 292)
-
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
-To add a level to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 292)
-
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
-To add a level to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 292)
-
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
-To add a level to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 292)
-
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
-To add a level to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 292)
-
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
-To add a level to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 292)
-
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
-To add a level to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 292)
-
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
-To add a level to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 292)
-
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
-To add a level to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 292)
-
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
-To add a level to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 292)
-
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
-To add a level to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 292)
-
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
-To add a level to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 292)
-
-Level 'Level2' (-1) couldn't be loaded because it has not been added to the build settings.
-To add a level to the build settings use the menu File->Build Settings...
- 
-(Filename:  Line: 292)
-
-UnloadTime: 3.064307 ms
+UnloadTime: 1.370508 ms
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 123.
-Total: 5.363821 ms (FindLiveObjects: 0.039009 ms CreateObjectMapping: 0.060567 ms MarkObjects: 0.311050 ms  DeleteObjects: 0.382910 ms)
+Total: 2.821314 ms (FindLiveObjects: 0.027772 ms CreateObjectMapping: 0.027772 ms MarkObjects: 0.176294 ms  DeleteObjects: 0.379153 ms)
+
+UnloadTime: 1.362055 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 2.179530 ms (FindLiveObjects: 0.030791 ms CreateObjectMapping: 0.026564 ms MarkObjects: 0.154559 ms  DeleteObjects: 0.164823 ms)
+
+UnloadTime: 1.208703 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 123.
+Total: 2.358843 ms (FindLiveObjects: 0.020527 ms CreateObjectMapping: 0.027772 ms MarkObjects: 0.140673 ms  DeleteObjects: 0.213123 ms)
 
